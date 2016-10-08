@@ -1,0 +1,5 @@
+flags: {}
+packages:
+- '.'
+extra-deps: ["mtl-2.2.1","text-1.2.2.1","parsec-3.1.11"]
+resolver: ghc-7.10
